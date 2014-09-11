@@ -5,6 +5,8 @@
 persist.audio.fluence.mode=endfire
 persist.audio.handset.mic=digital
 ro.qc.sdk.audio.fluencetype=fluence
+persist.call_recording.enabled=true
+persist.call_recording.src=4
 
 # radio
 rild.libargs=-d /dev/smd0
